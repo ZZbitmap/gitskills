@@ -1,2 +1,3 @@
 This is test.txt!
 gzyq add a new line!
+test change log
